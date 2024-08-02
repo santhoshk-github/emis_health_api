@@ -8,7 +8,7 @@ below are the list of requirements to build healthcare api
 3. visual studio code or pycharm editor
 
 **Note:** 
-need to update mysql credentials and connection detail for your own. otherwise it won't run.
+need to update mysql credentials and connection detail for your own. otherwise it won't execute.
 
 
 **Swagger UI:**
@@ -116,6 +116,6 @@ Open your browser and go to http://localhost:8000/docs to see the Swagger UI for
 
 -This setup provides a simple healthcare API that can be used to manage patient records with basic CRUD operations. 
 -We can extend it further to include more features as needed. 
--Also to secure the application we can add user Admin authention in login process.
+-Also to secure the application we can add user Admin authentication in login process.
 
 #################
